@@ -10,7 +10,7 @@ $(document).ready(function() {
         close();
     });
     envelope.on("click", function() {
-        window.open('https://www.google.ca', '_blank');
+        window.open('https://www.canva.com/design/DAF8rvmY4JA/3DNc1XIXItfLDCN5If0evA/edit?utm_content=DAF8rvmY4JA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', '_blank');
     });
 
     const shrinkBtn = document.getElementById('shrink');
